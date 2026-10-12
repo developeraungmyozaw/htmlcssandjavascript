@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: red;
+    border: 3px solid black;
+    text-align: center;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+header h1 {
+    border: 3px solid white;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 30px;
+    font-size: 25px;
+}
+
+
+.banner {
+    position: relative;
+}
+
+.banner img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

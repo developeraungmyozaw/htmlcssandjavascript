@@ -1,0 +1,14 @@
+html and css important note with aungmyozaw
+
+1.form
+2.selector and inherit
+3.display(block,inline,inline-block
+4.postion-fixed,relative,absolute,static,sticky;
+5.hover , focus ,first-child and paeudo classes
+6.responesive design (media queries,viewport meta tag,responesive images)
+
+
+
+
+
+i want to make space for charging or something with this for make

@@ -1,0 +1,79 @@
+/* p.error{
+    color: red;
+    border: 1px solid black;
+}
+
+.error{
+    color: blue;
+    border: 1px solid black;
+}
+a{
+    border: 1px solid black;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+p.success.feedback{
+    color: green;
+    border: 1px solid black;
+}
+#content{
+    background-color: lightgray;
+    padding: 20px;
+}
+
+div .error{
+    color: red;
+    border: 1px solid black;
+}
+
+a[href="https://www.google.com"]{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a[href="https://www.youtube.com"]{
+    background-color: red;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a[href*="google"]{
+    background-color: red;
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+a[href$=".pdf"]{
+    background-color: red;
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+} */
+
+div{
+    color:red;
+    border: 1px solid black;
+    margin: 40px;
+    font-weight: bold;
+}
+div p{
+    border: inherit;
+    margin:inherit;
+    color:blue;
+}
+p{
+    color:orange;
+}
+
+
+
