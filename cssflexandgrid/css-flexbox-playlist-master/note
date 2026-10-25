@@ -1,0 +1,13 @@
+/* 2.flex container
+3.flex Grow (fill place)
+4.flex shrink (make small need part)
+5.flex wrap
+6.flex basis (flex all type is first grow second shrink three basis)
+7.flex menu
+8.netsted flex menu
+9.flow & axis
+10.align items
+11.grid & stack layout ( in example-3 )
+12.element order
+
+*/

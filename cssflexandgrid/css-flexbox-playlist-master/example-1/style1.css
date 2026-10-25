@@ -1,0 +1,43 @@
+
+
+.wrapper {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* menu basic style */
+
+nav {
+    background-color: rgb(200, 176, 140);
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a:hover {
+    background-color: blanchedalmond;
+}
+
+
+@media screen and (min-width: 768px) {
+    nav ul {
+        display: flex;
+    }
+
+    nav li {
+        flex: 1 1 0;
+    }
+} 

@@ -1,0 +1,28 @@
+body {
+    background: #eee;
+    color: #333;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 960px;
+}
+
+#block {
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+#block div {
+    flex : 0 0 100px ;
+    padding: 40px 0 ;
+    text-align: center;
+    background-color: #ccc;
+}
+
+.one{order : 3 ;}
+.two{order : 0 ;}
+.three{order : 0 ;}
+.four{order : 0 ;}
+
